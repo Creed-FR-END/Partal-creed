@@ -1,0 +1,42 @@
+export const data = {
+    main: {
+        id: 1,
+        img: "https://m.media-amazon.com/images/I/81U-LMjIMxL._AC_UF894,1000_QL80_.jpg",
+        title: "Bolalar uchun yumshoq o'yinchog'i, Lilo va Stitch sovg'a uchun, moviy va pushti ranglar",
+        price: "500000",
+        discount: 20,
+    },
+    type: [
+        {
+            id: 1,
+            img: "https://static.vecteezy.com/system/resources/previews/022/726/499/non_2x/lilo-and-stitch-cartoon-free-vector.jpg",
+            color: "Moviy",
+            price: "440000",
+            discount: 24,
+            count: 12,
+            title: "Bolalar uchun yumshoq o'yinchog'i, Lilo va Stitch sovg'a uchun, moviy rangi",
+            color: "Moviy",
+            colorcode: "#8a2b8a",
+        },
+        {
+            id: 2,
+            img: "https://i.pinimg.com/564x/f2/ae/96/f2ae965e62a7c6a3218c0e82b3e4988f.jpg",
+            color: "Pushti",
+            price: "540000",
+            discount: 34,
+            count: 3,
+            title: "Bolalar uchun yumshoq o'yinchog'i, Lilo va Stitch sovg'a uchun, pushti rangi",
+            color: "pushti",
+        },
+        {
+            id: 3,
+            img: "https://http2.mlstatic.com/D_NQ_NP_796000-MLB76159596466_052024-O.webp",
+            color: "Qizil",
+            price: "340000",
+            discount: 14,
+            count: 20,
+            title: "Bolalar uchun yumshoq o'yinchog'i, Lilo va Stitch sovg'a uchun, qizil rangi",
+            color: "qizil",
+        },
+    ],
+};
